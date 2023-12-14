@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/estimer_voiteure/static/css/main.dfaf43fe.css",
-    "main.js": "/estimer_voiteure/static/js/main.bb20c93d.js",
+    "main.js": "/estimer_voiteure/static/js/main.22144487.js",
     "static/js/787.79022b05.chunk.js": "/estimer_voiteure/static/js/787.79022b05.chunk.js",
-    "static/media/backgroundVideo.mp4": "/estimer_voiteure/static/media/backgroundVideo.0cf8987a1e3e4bdc693a.mp4",
+    "static/media/backgroundVideo.mp4": "/estimer_voiteure/static/media/backgroundVideo.0437519b663ace0f38b2.mp4",
     "static/media/estimCarLogo.gif": "/estimer_voiteure/static/media/estimCarLogo.29fa448bad031e85a82b.gif",
     "static/media/carloader.gif": "/estimer_voiteure/static/media/carloader.26630e4ca74325aa0f41.gif",
     "static/media/an.png": "/estimer_voiteure/static/media/an.f733e9e4a3e0cc63b6c3.png",
@@ -12,11 +12,11 @@
     "static/media/energie.png": "/estimer_voiteure/static/media/energie.6e3b646024a8f7c3cc6e.png",
     "index.html": "/estimer_voiteure/index.html",
     "main.dfaf43fe.css.map": "/estimer_voiteure/static/css/main.dfaf43fe.css.map",
-    "main.bb20c93d.js.map": "/estimer_voiteure/static/js/main.bb20c93d.js.map",
+    "main.22144487.js.map": "/estimer_voiteure/static/js/main.22144487.js.map",
     "787.79022b05.chunk.js.map": "/estimer_voiteure/static/js/787.79022b05.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dfaf43fe.css",
-    "static/js/main.bb20c93d.js"
+    "static/js/main.22144487.js"
   ]
 }
